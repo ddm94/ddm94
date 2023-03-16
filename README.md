@@ -13,7 +13,7 @@ I am an Italian game developer with a passion for creating engaging and immersiv
 - Game Programmer
 
 
-## What I am focusing on
+## Other
 
 - 👩‍💻 I'm currently working on Project OneTime
 - 🧠 I'm currently learning C#, C++, Python
