@@ -4,7 +4,7 @@
 <h1 align="center">Game Developer • Digital Artist • Gamer</h1>
 
 
-## 🚀 About Me
+## 👋 About Me
 
 I am an Italian game developer with a passion for creating engaging and immersive game experiences. I am actively seeking entry-level/junior positions in the games industry such as:
 
@@ -13,7 +13,7 @@ I am an Italian game developer with a passion for creating engaging and immersiv
 - Game Programmer
 
 
-## Other
+## 🚀 Other
 
 - 👩‍💻 I'm currently working on Project OneTime
 - 🧠 I'm currently learning C#, C++, Python
