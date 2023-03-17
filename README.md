@@ -15,11 +15,18 @@ I am an Italian game developer with a passion for creating engaging and immersiv
 
 ## 🚀 Other
 
-- 👩‍💻 I'm currently working on Project OneTime
-- 🧠 I'm currently learning C#, C++, Python
+- 👩‍💻 I'm currently working on [Project OneTime](https://www.danieledimodica.com/projects/project-one-time.html)
+- 🧠 I'm currently learning C#, C++, Python and 3D modeling
 - 📫 How to reach me: **d.dimo94@hotmail.com**
 - ⚡️ Fun fact: I religiously eat my crisps with chopsticks
 
+## 🖥️ Projects
+
+I strongly suggest visiting my portoflio for a more detailed overview of my projects and more!
+
+### Project OneTime
+
+A 3D low-poly puzzle platformer where the player can make use of up to 3 power-ups simultaneously to overcome obstacles and solve environmental puzzles. The game heavily relies on level design to achieve harmony between different combination of powers up, so that one power up does not negavitely affect the others.
 
 ## 🛠 Languages and Tool
 
